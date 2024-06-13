@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "twosome_en";
+    src: url("../font/MARKPROBOLD.woff");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "twosome_en";
+    src: url("../font/MARKPROBLACK.woff");
+    font-weight: 900;
+}
+@font-face {
+    font-family: "twosome_en";
+    src: url("../font/MARKPROBOOK.woff");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "twosome_en";
+    src: url("../font/MARKPROHEAVY.woff");
+    font-weight: 800;
+}
+
